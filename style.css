@@ -1,0 +1,9 @@
+.letrasGrandes1 {
+    font-size: 20px;
+}
+
+.letrasGrandes {
+    background-color: rgba(0, 0, 0, 0.562);
+    font-size: 20px;
+    padding: 10px;
+}
